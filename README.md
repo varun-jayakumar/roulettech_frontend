@@ -1,14 +1,14 @@
-# Roulettech_frontend
+# Roulettech_frontend 🚀
 
-# Project Description
+## Project Description
 
 This project is a frontend application built using React. It provides a user interface for a recipe sharing app. Users can add, update, view, delete recipies
 
-# UI
+## 🎯 UI
 
 <img src="image.png" width="700" height="500">
 
-## Available Scripts
+## 🎯 Available Scripts
 
 In the project directory, you can run:
 
@@ -30,10 +30,10 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## License
+## 🎯 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
+## 🎯 Author
 
 [Varun Bharathi Jayakumar](https://github.com/varun-jayakumar) 👋
